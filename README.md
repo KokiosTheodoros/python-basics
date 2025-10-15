@@ -1,7 +1,6 @@
-# python-basics
-Python basics Colab notebook
-Πρώτο μου project! 
-Σε αυτό το notebook εξασκούμαι με τα βασικά της Python.
+python-basics
+
+Python basics Colab 
 
  Περιεχόμενα Notebook:
 - Μεταβλητές και τύποι δεδομένων (string, int, float, bool)
@@ -29,16 +28,3 @@ Python basics Colab notebook
 Βαθμοί: [9.0, 7.0, 710]
 Μέσος Όρος: 8.67
 Κατάσταση: Επιτυχία
-
----
- 
- Τι έμαθα:
-
-- Χρήση βασικών τύπων δεδομένων στην Python
-- Αριθμητικές πράξεις
-- Διαχείριση strings
-- Πώς παίρνουμε input και εμφανίζουμε αποτελέσματα
-- Πώς να οργανώσω μικρό πρόγραμμα σε ολοκληρωμένο project
-
----
-
